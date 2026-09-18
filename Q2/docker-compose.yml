@@ -1,0 +1,14 @@
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: Q2/Dockerfile
+    ports:
+      - "8000:8000"
+    depends_on:
+      - cache
+
+  cache:
+    image: redis:7-alpine
+    expose:
+      - "6379"
