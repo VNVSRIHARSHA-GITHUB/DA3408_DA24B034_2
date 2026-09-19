@@ -1,0 +1,66 @@
+[
+  {
+    "completion_index": 0,
+    "shard_file": "shard_0.csv",
+    "total_rows": 50,
+    "invalid_rows": 3,
+    "pod_name": "shard-validation-job-0-5psdh",
+    "node_name": "minikube-m02"
+  },
+  {
+    "completion_index": 1,
+    "shard_file": "shard_1.csv",
+    "total_rows": 50,
+    "invalid_rows": 5,
+    "pod_name": "shard-validation-job-1-m9mft",
+    "node_name": "minikube"
+  },
+  {
+    "completion_index": 2,
+    "shard_file": "shard_2.csv",
+    "total_rows": 50,
+    "invalid_rows": 8,
+    "pod_name": "shard-validation-job-2-s58jt",
+    "node_name": "minikube-m02"
+  },
+  {
+    "completion_index": 3,
+    "shard_file": "shard_3.csv",
+    "total_rows": 50,
+    "invalid_rows": 7,
+    "pod_name": "shard-validation-job-3-lcfq9",
+    "node_name": "minikube-m02"
+  },
+  {
+    "completion_index": 4,
+    "shard_file": "shard_4.csv",
+    "total_rows": 50,
+    "invalid_rows": 4,
+    "pod_name": "shard-validation-job-4-cctb5",
+    "node_name": "minikube-m02"
+  },
+  {
+    "completion_index": 5,
+    "shard_file": "shard_5.csv",
+    "total_rows": 50,
+    "invalid_rows": 6,
+    "pod_name": "shard-validation-job-5-w9g44",
+    "node_name": "minikube-m02"
+  },
+  {
+    "completion_index": 6,
+    "shard_file": "shard_6.csv",
+    "total_rows": 50,
+    "invalid_rows": 9,
+    "pod_name": "shard-validation-job-6-cjxfx",
+    "node_name": "minikube-m02"
+  },
+  {
+    "completion_index": 7,
+    "shard_file": "shard_7.csv",
+    "total_rows": 50,
+    "invalid_rows": 5,
+    "pod_name": "shard-validation-job-7-bcrng",
+    "node_name": "minikube"
+  }
+]
